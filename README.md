@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushpapy
-- 👀 I’m interested in Front end engineering
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Front end, systems and backend engineering
+- 🌱 I’m currently learning React,c++ and nodejs
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me nwankwoalabj@gmail.com
 
